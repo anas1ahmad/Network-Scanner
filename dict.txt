@@ -1,0 +1,10 @@
+Apache
+FileZilla Server
+Server
+server
+SMTP
+Mercury
+Maria
+pop
+POP
+Pop
